@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tavelagencyModel1StoreContainer" CdmEntityContainer="Datacontext2">
+    <EntitySetMapping Name="AdminTables">
+      <EntityTypeMapping TypeName="tavelagencyModel1.AdminTable">
+        <MappingFragment StoreEntitySet="AdminTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="custregTables">
+      <EntityTypeMapping TypeName="tavelagencyModel1.custregTable">
+        <MappingFragment StoreEntitySet="custregTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="confirmpassword" ColumnName="confirmpassword" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="phonenumber" ColumnName="phonenumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AddToursTables">
+      <EntityTypeMapping TypeName="tavelagencyModel1.AddToursTable">
+        <MappingFragment StoreEntitySet="AddToursTable">
+          <ScalarProperty Name="AddTransportCost" ColumnName="AddTransportCost" />
+          <ScalarProperty Name="Selecttransport" ColumnName="Selecttransport" />
+          <ScalarProperty Name="AddDestination" ColumnName="AddDestination" />
+          <ScalarProperty Name="AddLocation" ColumnName="AddLocation" />
+          <ScalarProperty Name="AddHotelCost" ColumnName="AddHotelCost" />
+          <ScalarProperty Name="AddHotel" ColumnName="AddHotel" />
+          <ScalarProperty Name="AddTour" ColumnName="AddTour" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

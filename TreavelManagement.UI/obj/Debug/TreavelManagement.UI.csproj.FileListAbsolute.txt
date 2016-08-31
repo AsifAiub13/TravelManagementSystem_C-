@@ -1,0 +1,12 @@
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\TreavelManagement.UI.exe.config
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\TreavelManagement.UI.exe
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\TreavelManagement.UI.pdb
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\MetroFramework.Design.dll
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\MetroFramework.dll
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\bin\Debug\MetroFramework.Design.pdb
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.csprojResolveAssemblyReference.cache
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.Form1.resources
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.Properties.Resources.resources
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.csproj.GenerateResource.Cache
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.exe
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\TreavelManagement.UI\obj\Debug\TreavelManagement.UI.pdb

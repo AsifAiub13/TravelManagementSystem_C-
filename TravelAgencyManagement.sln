@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagement.UI", "TreavelManagement.UI\TravelManagement.UI.csproj", "{8D473FE6-B7E6-466D-8880-3CC0B5C192A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TravelManagement.DAL", "TravelManagement.DAL", "{792302DC-8950-408E-A9CF-3AB14DE8805B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.dal", "ClassLibrary1\DataAccess.dal.csproj", "{673F5BC3-5012-4E13-AA4A-B4074102A324}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TravelManagement.BLL", "TravelManagement.BLL", "{7CE3A1B4-2B05-470F-9308-166E88BE78EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic.bll", "BussinessLogic.bll\BussinessLogic.bll.csproj", "{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D473FE6-B7E6-466D-8880-3CC0B5C192A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D473FE6-B7E6-466D-8880-3CC0B5C192A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D473FE6-B7E6-466D-8880-3CC0B5C192A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D473FE6-B7E6-466D-8880-3CC0B5C192A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673F5BC3-5012-4E13-AA4A-B4074102A324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673F5BC3-5012-4E13-AA4A-B4074102A324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673F5BC3-5012-4E13-AA4A-B4074102A324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673F5BC3-5012-4E13-AA4A-B4074102A324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{673F5BC3-5012-4E13-AA4A-B4074102A324} = {792302DC-8950-408E-A9CF-3AB14DE8805B}
+		{0D8C33F3-29A5-4CB4-97E9-DF8A4F34B31A} = {7CE3A1B4-2B05-470F-9308-166E88BE78EE}
+	EndGlobalSection
+EndGlobal

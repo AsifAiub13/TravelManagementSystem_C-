@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tavelagencyModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="tavelagencyModel1StoreContainer">
+    <EntitySet Name="AddToursTable" EntityType="tavelagencyModel1.Store.AddToursTable" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="AdminTable" EntityType="tavelagencyModel1.Store.AdminTable" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="custregTable" EntityType="tavelagencyModel1.Store.custregTable" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="AddToursTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AddTour" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AddHotel" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AddHotelCost" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AddLocation" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AddDestination" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Selecttransport" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AddTransportCost" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="AdminTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="password" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="custregTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="firstname" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="lastname" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="username" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="password" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="confirmpassword" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="email" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="address" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="age" Type="int" Nullable="false" />
+    <Property Name="phonenumber" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>

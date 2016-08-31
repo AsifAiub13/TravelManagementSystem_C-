@@ -1,0 +1,8 @@
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\bin\Debug\EntityFramework.dll
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\bin\Debug\EntityFramework.xml
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\obj\Debug\DataAccess.dal.csprojResolveAssemblyReference.cache
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\ashikpolin\documents\visual studio 2012\Projects\TravelAgencyManagement\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
